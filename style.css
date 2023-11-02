@@ -1,0 +1,45 @@
+a {
+    color: blueviolet;
+    text-align: center;
+}
+
+header {
+    color: brown;
+    font-size: 50px;
+    text-align: center;
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+p {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(175, 169, 76);
+}
+
+body {
+    background-color: rgb(238, 230, 219);
+}
+
+h4 {
+    color: rgb(175, 169, 76);
+}
+
+li {
+    list-style-position: inside;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+}
